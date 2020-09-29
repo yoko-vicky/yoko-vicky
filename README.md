@@ -1,6 +1,6 @@
 ### Hi there, I'm Yoko Saka 👋
 
-[![twitter](https://github.com/yocosaka/yocosaka/blob/master/twitter-brands.svg)](https://twitter.com/yocosaka)
+[![twitter](https://github.com/yocosaka/yocosaka/blob/master/twitter.png)](https://twitter.com/yocosaka)
 
 Hi, I'm Yoko Saka, Freelance full-stack developer from Japan.
 
