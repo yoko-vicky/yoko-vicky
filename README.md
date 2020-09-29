@@ -6,6 +6,10 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yocosaka&repo=github-readme-stats&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yocosaka&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yocosaka&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yocosaka)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yoko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yocosaka)](https://github.com/anuraghazra/github-readme-stats)
