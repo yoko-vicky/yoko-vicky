@@ -1,9 +1,6 @@
-### Hi there, I'm Yoko Saka 👋
+# Hi there, I'm Yoko Saka 👋
 
 Hi, I'm Yoko Saka, Freelance full-stack developer from Japan.
-
-[![twitter](https://github.com/yocosaka/yocosaka/blob/master/twitter.png)](https://twitter.com/yocosaka)
-
 
 
 
@@ -16,13 +13,13 @@ Hi, I'm Yoko Saka, Freelance full-stack developer from Japan.
 
 
 
-**Languages and Tools:**
+## Languages and Tools
 
 HTML, CSS, Ruby, Ruby on Rails, JavaScript, React
-    
-    
-    
 
+
+
+## Recently Stats
 NOTE: Top languages does not indicate my skill level etc...
 It's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
