@@ -4,11 +4,11 @@ Hi, I'm Yoko Saka, Freelance full-stack developer from Japan.
 
 
 
-🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
+- 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
 
-🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML & CSS
 
-💬 Ask me about anything [here](https://github.com/issues)
+- 💬 Ask me about anything [here](https://github.com/issues)
 
 
 
