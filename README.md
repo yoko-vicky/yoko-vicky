@@ -8,8 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yocosaka)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Yoko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yocosaka)](https://github.com/anuraghazra/github-readme-stats)
-
+[![yocosaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yocosaka)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yocosaka/yocosaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
