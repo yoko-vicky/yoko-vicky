@@ -1,8 +1,10 @@
 ### Hi there, I'm Yoko Saka 👋
 
+Hi, I'm Yoko Saka, Freelance full-stack developer from Japan.
+
 [![twitter](https://github.com/yocosaka/yocosaka/blob/master/twitter.png)](https://twitter.com/yocosaka)
 
-Hi, I'm Yoko Saka, Freelance full-stack developer from Japan.
+
 
 
 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
@@ -12,8 +14,13 @@ Hi, I'm Yoko Saka, Freelance full-stack developer from Japan.
 💬 Ask me about anything [here](https://github.com/issues)
 
 
+
+
 **Languages and Tools:**
+
 HTML, CSS, Ruby, Ruby on Rails, JavaScript, React
+    
+    
     
 
 NOTE: Top languages does not indicate my skill level etc...
