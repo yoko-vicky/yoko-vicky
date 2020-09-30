@@ -20,7 +20,7 @@ HTML, CSS, Ruby, Ruby on Rails, JavaScript, React
 
 
 ## Recently Stats
-NOTE: Top languages does not indicate my skill level etc...
+NOTE: Top languages does not indicate my skill level.
 It's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 [![Yoko's github stats](https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
