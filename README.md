@@ -1,6 +1,6 @@
 # Hi there, I'm Yoko Saka 👋
 
-Hi, I'm Yoko Saka, Freelance full-stack developer from Japan :jp:.
+Hi, I'm Yoko Saka, a freelance full-stack developer from Japan :jp:.
 
 
 
