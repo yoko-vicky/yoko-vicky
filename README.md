@@ -23,9 +23,10 @@ HTML, CSS, Ruby, Ruby on Rails, JavaScript, React
 NOTE: Top languages does not indicate my skill level.
 It's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
-[![Yoko's github stats](https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=tokyonight" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocosaka&compact=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yocosaka)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **yocosaka/yocosaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
