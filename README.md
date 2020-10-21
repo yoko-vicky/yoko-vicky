@@ -6,7 +6,7 @@ Hi, I'm Yoko Saka, a freelance full-stack developer from Japan :jp:.
 
 - 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
 
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning Ruby
 
 - 💬 Ask me about anything [here](https://github.com/issues)
 
