@@ -16,7 +16,7 @@ I am a Microverse student to be a freelance full-stack developer 2021.
 
 ## Languages and Tools
 
-HTML, CSS, Ruby
+HTML, CSS, SCSS, Ruby, JavaScript
 
 
 
