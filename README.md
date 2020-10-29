@@ -1,7 +1,7 @@
 # Hi there, I'm Yoko Saka 👋
 
 Hi, I'm Yoko Saka, from Japan :jp:.
-I amd a Microverse student to be a freelance full-stack developer 2021.
+I am a Microverse student to be a freelance full-stack developer 2021.
 
 
 
