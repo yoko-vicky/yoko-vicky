@@ -1,6 +1,7 @@
 # Hi there, I'm Yoko Saka 👋
 
-Hi, I'm Yoko Saka, a freelance full-stack developer from Japan :jp:.
+Hi, I'm Yoko Saka, from Japan :jp:.
+I amd a Microverse student to be a freelance full-stack developer 2021.
 
 
 
@@ -15,7 +16,7 @@ Hi, I'm Yoko Saka, a freelance full-stack developer from Japan :jp:.
 
 ## Languages and Tools
 
-HTML, CSS, Ruby, Ruby on Rails, JavaScript, React
+HTML, CSS, Ruby
 
 
 
