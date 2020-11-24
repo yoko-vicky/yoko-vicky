@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Ruby on Rails
 - 💬 Ask me about anything [here](https://github.com/issues)
 
 
