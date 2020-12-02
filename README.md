@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Yoko Saka 👋</h1>
-<img src="https://github.com/yocosaka/yocosaka/blob/master/bg.jpg" alt="Yoko Saka, Full Stack Engineer">
+<img src="https://github.com/yocosaka/yocosaka/blob/master/header.jpg" alt="Yoko Saka, Full Stack Engineer">
 <p align="center">
   Hi, I'm Yoko Saka from Japan :jp:.
   I am a Microverse student to be a freelance full-stack developer 2021.
