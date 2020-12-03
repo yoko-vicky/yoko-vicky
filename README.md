@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  Hi, I'm Yoko Saka from Japan :jp:.
-  I am a Microverse student to be a freelance full-stack developer 2021.
+  Hi, I'm Yoko Saka from Japan :jp:.<br>
+  I am a freelance Full-Stack developer with knowledge in <br>
+  Ruby, Ruby on Rails, React&Redux, JavaScript, and Frontend. <br>
+  I'm Looking for new challenges in remote jobs!
 </p>
 
-
 - 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
-- 🌱 I’m currently learning [Ruby on Rails](https://github.com/yocosaka?tab=repositories)
-- :apple: I have +7 years experience as a web planner and developer with HTML, CSS, and WordPress.
+- :apple: I have +7 years experience as a web planner and a web developer.
 
 
 <!-- <h2 align="center">Recently Stats</h2>
