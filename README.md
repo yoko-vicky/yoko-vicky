@@ -15,11 +15,9 @@
 - :apple: I have +7 years experience as a web planner and developer with HTML, CSS, and WordPress.
 
 
-
-<h2 align="center">Recently Stats</h2>
+<!-- <h2 align="center">Recently Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=tokyonight" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocosaka&compact=true">
 <br>
 <h2 align="center">Languages and Tools</h2>
-<p align="center">Ruby | Ruby on Rails | React & Redux | JavaScript | Frontend</p>
-
+<p align="center">Ruby | Ruby on Rails | React & Redux | JavaScript | Frontend</p> -->
