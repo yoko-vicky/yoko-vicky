@@ -8,6 +8,7 @@
   Hi, I'm Yoko Saka from Japan :jp:.<br>
   I am a freelance Full-Stack developer with knowledge in <br>
   Ruby, Ruby on Rails, React&Redux, JavaScript, and Frontend. <br>
+  I build websites and solve complex business issues.<br>
   I'm Looking for new challenges in remote jobs!
 </p>
 
