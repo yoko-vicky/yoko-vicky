@@ -12,7 +12,7 @@
 </p>
 
 - 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
-- :apple: I have +7 years experience as a freelance web developer and planner.
+- :apple: I have +7 years experience as a freelance web developer and planner
 
 
 <!-- <h2 align="center">Recently Stats</h2>
