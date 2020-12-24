@@ -8,7 +8,7 @@
   I am a Microverse Student to be a freelance Full-Stack developer with knowledge in<br>
   Ruby, Ruby on Rails, React & Redux, JavaScript, and Frontend.<br>
   I build websites and solve complex business issues.<br>
-  I'm Looking for new challenges in remote jobs starting from spring in 2021!
+  I'm looking for new challenges in remote jobs starting from spring in 2021!
 </p>
 
 - 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
