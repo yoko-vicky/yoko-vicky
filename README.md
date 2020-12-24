@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  I am a freelance Full-Stack developer with knowledge in <br>
-  Ruby, Ruby on Rails, React & Redux, JavaScript, and Frontend. <br>
+  I am a Microverse Student to be afreelance Full-Stack developer with knowledge in<br>
+  Ruby, Ruby on Rails, React & Redux, JavaScript, and Frontend.<br>
   I build websites and solve complex business issues.<br>
-  I'm Looking for new challenges in remote jobs!
+  I'm Looking for new challenges in remote jobs starting from spring in 2021!
 </p>
 
 - 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
