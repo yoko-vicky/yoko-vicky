@@ -11,9 +11,10 @@
   I'm looking for new challenges in remote jobs starting from spring in 2021!
 </p>
 
-- 🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)
-- :apple: I have +7 years experience as a freelance web developer and planner
-
+<p align="center">
+🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)<br>
+:apple: I have +7 years experience as a freelance web developer and planner
+</p>
 
 <!-- <h2 align="center">Recently Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=tokyonight" align="left">
