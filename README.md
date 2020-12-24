@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-🔭 I’m currently working on a lot of projects at [Microverse](https://www.microverse.org/)<br>
+🔭 I’m currently working on a lot of projects at <a href="https://www.microverse.org/" target="_blank">Microverse</a><br>
 :apple: I have +7 years experience as a freelance web developer and planner
 </p>
 
