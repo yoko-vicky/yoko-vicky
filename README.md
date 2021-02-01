@@ -16,8 +16,11 @@
 :apple: I have +7 years experience as a freelance web developer and planner
 </p>
 
-<!-- <h2 align="center">Recently Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=tokyonight" align="left">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=tokyonight" align="center">
+</p>
+<!-- 
+<h2 align="center">Recently Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocosaka&compact=true">
 <br>
 <h2 align="center">Languages and Tools</h2>
