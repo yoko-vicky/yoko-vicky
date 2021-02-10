@@ -14,7 +14,7 @@
 <p align="center">
 :ledger: I’m currently working on a lot of projects at <a href="https://www.microverse.org/" target="_blank">Microverse</a><br>
 :telescope: I have +7 years experience as a freelance web developer and planner<br>
-:apple: Get in touch with me via email or visit <a href="https://yocosaka.com/" target="_blank">My Portfolio</a> 
+:apple: Get in touch with me via email or visit <a href="https://yocosaka.com/" target="_blank">my Portfolio</a> 
 </p>
 
 <p align="center">
