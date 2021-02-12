@@ -6,7 +6,7 @@
 
 <h2 align="center">
   I am passionate about writing organized programs and codes beautifully <br>in order to deliver an amazing experience for people.<br>
-  I'm looking for new challenges in remote jobs starting from spring in 2021
+  I'm looking for new challenges in remote jobs starting from spring in 2021<br>
 </h2>
 
 <h3>
