@@ -7,15 +7,15 @@
 <p align="center">
   I am a freelance Full-Stack developer with knowledge in<br>
   Ruby, Ruby on Rails, React & Redux, JavaScript, and Frontend.<br>
-  I build websites and solve complex business issues.<br>
+  I am passionate about writing organized programs and codes beautifully <br>in order to deliver an amazing experience for people.<br>
   I'm looking for new challenges in remote jobs starting from spring in 2021!
 </p>
 
-<p align="center">
-:ledger: I’m currently working on a lot of projects at <a href="https://www.microverse.org/" target="_blank">Microverse</a><br>
-:telescope: I have +7 years experience as a freelance web developer and planner<br>
-:apple: Get in touch with me via email or visit <a href="https://yocosaka.com/" target="_blank">my Portfolio</a> 
-</p>
+<h2 align="center">
+:rocket: I’m daily working on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program to improve my skills through building projects in pair programming with developers from all over the world<br><br>
+:honeybee: I'm currently working on JavaScript projects and a lot of coding challenges!<br><br>
+:mailbox: Get in touch with me via email or visit <a href="https://yocosaka.com/" target="_blank">my Portfolio</a> 
+</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=default" align="center">
