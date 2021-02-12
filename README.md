@@ -4,9 +4,9 @@
 <a href="https://github.com/https://github.com/yocosaka" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://twitter.com/yocosaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter @yocosaka" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">
+<h2 align="center">
   I am passionate about writing organized programs and codes beautifully in order to deliver an amazing experience for people. I'm looking for new challenges in remote jobs.<br>
-</h1>
+</h2>
 
 <h3>
 :rocket: I’m daily working on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program to improve my skills through building projects in pair programming with developers from all over the world<br><br>
