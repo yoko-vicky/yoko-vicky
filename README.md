@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  I am a freelance Full-Stack developer with knowledge in<br>
-  Ruby, Ruby on Rails, React & Redux, JavaScript, and Frontend.<br>
   I am passionate about writing organized programs and codes beautifully <br>in order to deliver an amazing experience for people.<br>
   I'm looking for new challenges in remote jobs starting from spring in 2021!
 </p>
