@@ -10,7 +10,7 @@
 
 <h3>
 :rocket: I’m daily working on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program to improve my skills through building projects in pair programming with developers from all over the world<br><br>
-:honeybee: I'm currently working on JavaScript projects and a lot of coding challenges!<br><br>
+:honeybee: I'm currently working on React & Redux projects and a lot of coding challenges!<br><br>
 :mailbox: Get in touch with me via email or visit <a href="https://yocosaka.com/" target="_blank">my Portfolio</a> 
 </h3>
 
