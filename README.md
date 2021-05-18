@@ -5,12 +5,11 @@
 </p>
 
 <h2 align="center">
-  I am passionate about writing organized programs and codes beautifully <br>to deliver an amazing experience for people. <br>I'm looking for new challenges in remote jobs.<br>
+  I am passionate about solving complex issues and <br>delivering an amazing experience for people. <br>I'm looking for new challenges in remote jobs in the world.<br>
 </h2>
 
 <h3>
 :rocket: I’m daily working on <a href="https://www.microverse.org/" target="_blank">Microverse</a> program to improve my skills through building projects in pair programming with developers from all over the world<br><br>
-:honeybee: I'm currently working on Coding Challenges that are based on the knowledge of Algorithms and Data Structure<br><br>
 :mailbox: Get in touch with me via email or visit <a href="https://yocosaka.com/" target="_blank">my portfolio</a> 
 </h3>
 
