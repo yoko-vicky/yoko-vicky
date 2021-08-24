@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  I am passionate about solving complex issues and <br>delivering an amazing experience for people. <br>I'm looking for new challenges in remote jobs in the world.<br>
+  I'm looking for new challenges in relocating or remote jobs in the world.<br>
 </h2>
 
 <h3>
