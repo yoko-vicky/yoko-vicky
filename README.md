@@ -1,11 +1,11 @@
-<h1 align="center"> Hi there, I'm Yoko Saka, Full-stack developer :wave:</h1>
+<h1 align="center"> Hi there, I'm Yoko Saka, Full Stack JavaScript Developer :wave:</h1>
 <img src="https://github.com/yocosaka/yocosaka/blob/master/images/header-n.jpg" alt="Yoko Saka, Full Stack Developer">
 <p align="center">
 <a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://yocosaka.com/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a> | <a href="https://twitter.com/yocosaka" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/twitter.svg" alt="Twitter @yocosaka" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">
-  I'm looking for new challenges in relocating or remote jobs in the world.<br>
+  I'm looking for new challenges in relocating or remote jobs all over the world.<br>
 </h2>
 
 <h3>
