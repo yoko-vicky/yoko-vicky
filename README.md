@@ -10,7 +10,7 @@
 </p>
 <h3>
 :rocket: Looking for new challenges in relocating or remote jobs all over the world<br>
-:honeybee: I can work as a full time or contractor to fit your team flexibly<br>
+:honeybee: I can start working as a full time or contractor to fit your team flexibly<br>
 :mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yocosaka" target="_blank">Twitter</a> or visit <a href="https://yocosaka.com/" target="_blank">my portfolio</a> 
 </h3>
 <br>
