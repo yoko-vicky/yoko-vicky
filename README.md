@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://yocosaka.com/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a> | <a href="https://twitter.com/yocosaka" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/twitter.svg" alt="Twitter @yocosaka" height="30" width="40" /></a>
 </p>
-<img src="https://github.com/yocosaka/yocosaka/blob/master/images/cover.jpg" alt="Yoko Saka, Full Stack Developer">
+<img src="https://github.com/yocosaka/yocosaka/blob/master/images/cover-1.jpg" alt="Yoko Saka, Full Stack Developer">
 
 <h2 align="center">Languages & Frameworks</h2>
 <p align="center">
