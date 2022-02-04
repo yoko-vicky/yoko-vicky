@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Yoko Saka, Full Stack Developer :wave:</h1>
+<h1 align="center"> Hi there, I'm Yoko Saka, Frontend Developer :wave:</h1>
 <p align="center">
 <a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://yocosaka.github.io/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a> | <a href="https://twitter.com/yocosaka" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/twitter.svg" alt="Twitter @yocosaka" height="30" width="40" /></a>
 </p>
