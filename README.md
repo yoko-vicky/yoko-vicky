@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there, I'm Yoko Saka, Freelance Web Developer :bee:</h1>
 <p align="center">
-  <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/sass.svg' alt='sass/scss'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/js.svg' alt='javascript'  height="30" width="40"> |<img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/react.svg' alt='react'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/vuejs.svg' alt='vuejs'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/typeScript.svg' alt='typescript'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/html5.svg' alt='html5'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/css3.svg' alt='css3'  height="30" width="40"> |
+  <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/sass.svg' alt='sass/scss'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/wordpress.svg' alt='wordpress'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/rubyonrails.svg' alt='ruby on rails'  height="30" width="40">
 </p>
