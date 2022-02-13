@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Yoko Saka, Freelance Web Developer :bee:</h1>
+<h1 align="center"> Hi there, I'm Yoko Saka, Web Developer :bee:</h1>
 <p align="center">
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/js.svg' alt='javascript'  height="30" width="40"> |<img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/react.svg' alt='react'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/vuejs.svg' alt='vuejs'  height="30" width="40"> |
