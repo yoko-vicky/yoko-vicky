@@ -16,7 +16,7 @@
 <a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://yocosaka.github.io/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a>
 </p>
 <h3>
-🐞 I love writing JavaScript, Vue.js and SCSS working on Frontend development!
+🐞 I love writing JavaScript, React-Redux, Vue.js and SCSS working on Frontend development!
 </h3>
 <h3>
 :mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yocosaka" target="_blank">Twitter</a> or visit <a href="https://yocosaka.com/" target="_blank">my portfolio</a> 
