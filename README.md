@@ -19,7 +19,7 @@
 🐞 I love writing JavaScript, React-Redux, Vue.js and SCSS working on Frontend development!
 </h3>
 <h3>
-:mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yocosaka" target="_blank">Twitter</a> or visit <a href="https://yocosaka.com/" target="_blank">my portfolio</a> 
+:mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yocosaka" target="_blank">Twitter</a> or visit <a href="https://yocosaka.github.io/" target="_blank">my portfolio</a> 
 </h3>
 <br>
 <p align="center">
