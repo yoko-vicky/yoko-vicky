@@ -9,7 +9,7 @@
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/rubyonrails.svg' alt='ruby on rails'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/wordpress.svg' alt='wordpress'  height="30" width="40">
 </p>
-<img src="https://github.com/yocosaka/yocosaka/blob/master/images/cover.jpg" alt="Yoko Saka, Frontend Developer">
+<img src="https://github.com/yocosaka/yocosaka/blob/master/images/cover-n.jpg" alt="Yoko Saka, Frontend Developer">
 
 <h2 align="center">Get in touch with me</h2>
 <p align="center">
