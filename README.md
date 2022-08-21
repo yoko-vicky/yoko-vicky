@@ -24,7 +24,7 @@
 :bee: I love developing API with Ruby on Rails, too!
 </h3>
 <h3>
-:mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yocosaka" target="_blank">Twitter</a> or visit <a href="https://yocosaka.net/" target="_blank">my portfolio</a> 
+:mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yocosaka" target="_blank">Twitter</a> or visit <a href="http://yocosaka.net/" target="_blank">my portfolio</a> 
 </h3>
 <br>
 <p align="center">
