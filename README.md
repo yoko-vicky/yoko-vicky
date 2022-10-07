@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Yoko Saka, Full Stack Developer :bee:</h1>
+<h1 align="center"> Hi there, I'm Yoko Saka, Frontend Developer :bee:</h1>
 <p align="center">
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/react.svg' alt='react'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/typeScript.svg' alt='typescript'  height="30" width="40"> |
@@ -21,7 +21,7 @@
 🐞 I love writing React-Redux, JavaScript and CSS3/SCSS working on Frontend development!
 </h3>
 <h3>
-:bee: I love developing API with Ruby on Rails, too!
+:bee: I can develop web applications based on OOP by using the knowledge and skills in Ruby on Rails
 </h3>
 <h3>
 :mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yocosaka" target="_blank">Twitter</a> or visit <a href="https://www.yocosaka.net/" target="_blank">my portfolio</a> 
