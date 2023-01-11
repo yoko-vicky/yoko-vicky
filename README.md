@@ -25,7 +25,7 @@
 :bee: I can develop RESTful API with Ruby on Rails and SQL
 </h3>
 <h3>
-:mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yocosaka" target="_blank">Twitter</a> or visit <a href="https://www.yocosaka.net/" target="_blank">my portfolio</a> 
+:mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, or visit <a href="https://www.yocosaka.site/" target="_blank">my portfolio</a> 
 </h3>
 <br>
 <p align="center">
