@@ -8,8 +8,8 @@
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/rubyonrails.svg' alt='ruby on rails'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/html5.svg' alt='html5'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/css3.svg' alt='css3'  height="30" width="40"> |
-  <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/rubyonrails.svg' alt='Ruby on Rails'  height="30" width="40">
-  <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/ruby.svg' alt='Ruby'  height="30" width="40">
+  <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/rubyonrails.svg' alt='Ruby on Rails'  height="30" width="40"> |
+  <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/ruby.svg' alt='Ruby'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/sql.svg' alt='SQL'  height="30" width="40">
 </p>
 <img src="https://github.com/yocosaka/yocosaka/blob/master/images/cover-n.jpg" alt="Yoko Saka, Frontend Developer">
