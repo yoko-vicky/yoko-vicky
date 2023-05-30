@@ -21,15 +21,12 @@
 <a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://yocosaka-portfolio.netlify.app/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a>
 </p>
 <h3>
-🐞 I love writing React, TypeScript, JavaScript and styles!
+🐞 I love writing React, TypeScript, JavaScript, Next.js and styles!
 </h3>
 <h3>
-:bee: I can develop RESTful API with Node.js, Ruby on Rails and SQL
+:bee: I develop RESTful API with Nextjs, Node.js, Ruby on Rails, Prisma, SQL
 </h3>
 <h3>
 :mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, or visit <a href="https://yocosaka-portfolio.netlify.app/" target="_blank">my portfolio</a> 
 </h3>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yocosaka&count_private=true&show_icons=true&theme=default" align="center">
-</p>
+
