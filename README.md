@@ -21,10 +21,10 @@
 <a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://www.yocosaka.site" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a>
 </p>
 <h3>
-🐞 I love writing React, TypeScript, JavaScript, Next.js and scss style!
+🐞 I love writing React, TypeScript, Next.js, JavaScript, and styles!
 </h3>
 <h3>
-:bee: I develop API with Nextjs, Node.js, Ruby on Rails, Prisma, SQL
+:bee: I develop API with Nextjs, Node.js, Ruby on Rails, Prisma, and SQL
 </h3>
 <h3>
 :mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, or visit <a href="https://www.yocosaka.site" target="_blank">my portfolio</a> 
