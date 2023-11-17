@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! A remote Web Developer with +10 years in Tech :bee:</h1>
+<h1 align="center"> Hi there! A Full Stack Web Developer with +10 years in Tech :bee:</h1>
 
 <p align="center">
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/typeScript.svg' alt='typescript'  height="30" width="40"> |
