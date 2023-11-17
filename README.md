@@ -1,4 +1,21 @@
-<h1 align="center"> Hi there, I'm Yoko Saka, Fullstack Web Developer :bee:</h1>
+<h1 align="center"> Hi there! A remote Web Developer with +10 years in Tech :bee:</h1>
+
+
+<h3>
+I am passionate about crafting user-centric interfaces that leverage the power of cutting-edge technologies to deliver seamless digital experiences!
+</h3>
+
+<p align="center">
+<a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://www.yocosaka.site" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a>
+</p>
+
+<h4>
+:mailbox: Feel free to get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, or visit <a href="https://www.yocosaka.site" target="_blank">my portfolio</a> 
+</h4>
+
+
+
+<img src="https://github.com/yocosaka/yocosaka/blob/master/images/cover-n.jpg" alt="Yoko Saka, Frontend Developer">
 <p align="center">
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/react.svg' alt='react'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/typeScript.svg' alt='typescript'  height="30" width="40"> |
@@ -14,19 +31,6 @@
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/ruby.svg' alt='Ruby'  height="30" width="40"> |
   <img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/sql.svg' alt='SQL'  height="30" width="40">
 </p>
-<img src="https://github.com/yocosaka/yocosaka/blob/master/images/cover-n.jpg" alt="Yoko Saka, Frontend Developer">
 
-<h2 align="center">Get in touch with me</h2>
-<p align="center">
-<a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://www.yocosaka.site" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a>
-</p>
-<h3>
-🐞 I love writing React, TypeScript, Next.js, JavaScript, and styles!
-</h3>
-<h3>
-:bee: I develop API with Nextjs, Node.js, Ruby on Rails, Prisma, and SQL
-</h3>
-<h3>
-:mailbox: Get in touch with me via <a href="https://www.linkedin.com/in/yokosaka/" target="_blank">LinkedIn</a>, or visit <a href="https://www.yocosaka.site" target="_blank">my portfolio</a> 
-</h3>
+
 
