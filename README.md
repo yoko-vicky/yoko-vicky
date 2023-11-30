@@ -28,7 +28,7 @@ I am passionate about crafting user-centric interfaces that leverage the power o
 
 
 <h3>
-🎥 If you are a movie lover, check my latest personal project <a href="https://www.moviees.life/" target="_blank">Moviees</a> working lively! This was built with Next.js and Supabase. You can search, filter, collect, and share your favorite films on it. It is a private project, so visit <a href="https://www.yocosaka.tech/" target="_blank">my portfolio website</a> for an overview.
+🎥 If you are a movie lover, check my latest personal project <a href="https://www.moviees.life/" target="_blank">Moviees</a> working lively! This was built with Next.js and Supabase. You can search, filter, collect, and share your favorite films on it. It is a private project, so visit <a href="https://portfolio-2023-yocosaka.vercel.app/" target="_blank">my portfolio website</a> for an overview.
 </h3>
 
 <h3>
@@ -38,7 +38,7 @@ I am passionate about crafting user-centric interfaces that leverage the power o
 
 
 <p align="center">
-<a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://www.yocosaka.tech" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a>
+<a href="https://github.com/yocosaka" target="blank"><img align="center" src='https://github.com/yocosaka/yocosaka/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yokosaka/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://portfolio-2023-yocosaka.vercel.app/" target="blank"><img align="center" src="https://github.com/yocosaka/yocosaka/blob/master/images/global.svg" alt="yocosaka Portflio" height="30" width="40" /></a>
 </p>
 
 
