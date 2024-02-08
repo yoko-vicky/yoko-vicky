@@ -16,7 +16,7 @@ I am passionate about crafting user-centric interfaces that leverage the power o
 </h2>
 
 <h3>
-🎥 If you are a movie lover, check my latest personal project <a href="https://www.moviees.life/" target="_blank">Moviees</a> working lively! This was built with Next.js and Supabase. You can search, filter, collect, and share your favorite films on it. It is a private project, so visit <a href="https://www.yocosaka.tech/" target="_blank">my portfolio website</a> for an overview.
+🎥 If you are a movie lover, check my latest small project <a href="https://github.com/yocosaka/MyFavoriteMovies" target="_blank">Moviees</a>! This was built with Next.js and Supabase. You can search, filter, collect, and share your favorite films on it.
 </h3>
 
 <h3>
