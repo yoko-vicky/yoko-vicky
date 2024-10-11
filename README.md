@@ -9,7 +9,7 @@
 <img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/css3.svg' alt='css3'  height="30" width="40"> |
 
 </p>
-<img src="https://github.com/yoko-vicky/yoko-vicky/blob/master/images/image.jpg" alt="Yoko, Frontend Developer">
+<img src="https://github.com/yoko-vicky/yoko-vicky/blob/master/images/bg.jpg" alt="Yoko, Frontend Developer">
 
 <h2>
 I am passionate about crafting user-centric interfaces that leverage the power of cutting-edge technologies to deliver seamless digital experiences!
