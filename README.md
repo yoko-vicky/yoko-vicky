@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Yoko, Frontend Web Developer :bee:</h1>
+<h1 align="center"> Hi there, I'm Yoko, Frontend Developer :bee:</h1>
 <p align="center">
 <img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/typeScript.svg' alt='typescript'  height="30" width="40"> |
 <img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/nextjs.svg' alt='nextjs'  height="30" width="40"> |
