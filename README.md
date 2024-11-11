@@ -20,9 +20,9 @@ I am passionate about crafting user-centric interfaces that leverage the power o
 </h3>
 
 <h3>
-:mailbox: Feel free to get in touch with me via <a href="https://www.linkedin.com/in/yoko-vicky/" target="_blank">LinkedIn</a>, or visit <a href="https://www.yocosaka.tech/" target="_blank">my portfolio</a> 
+:mailbox: Feel free to get in touch with me via <a href="https://www.linkedin.com/in/yoko-vicky/" target="_blank">LinkedIn</a>
 </h3>
 
 <p align="center">
-<a href="https://github.com/yoko-vicky" target="blank"><img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yoko-vicky/" target="blank"><img align="center" src="https://github.com/yoko-vicky/yoko-vicky/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a> | <a href="https://www.yocosaka.tech/" target="blank"><img align="center" src="https://github.com/yoko-vicky/yoko-vicky/blob/master/images/global.svg" alt="Yoko's Portflio" height="30" width="40" /></a>
+<a href="https://github.com/yoko-vicky" target="blank"><img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yoko-vicky/" target="blank"><img align="center" src="https://github.com/yoko-vicky/yoko-vicky/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a>
 </p>
