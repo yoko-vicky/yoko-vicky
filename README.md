@@ -33,7 +33,7 @@ I focus on how structure supports user behavior, decision-making, and experience
 
 ## 📘 Full UX Portfolio
 
-🧭 [Notion Portfolio](https://www.notion.so/UX-Informed-Frontend-Development-Portfolio-...)  
+🧭 [Notion Portfolio](https://abiding-snap-e4c.notion.site/Yoko-UX-Informed-Frontend-Development-Structuring-Portfolio-1cb994322fd580deab65d69fbfa3ddba?pvs=143)  
 💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)
 
 ---
