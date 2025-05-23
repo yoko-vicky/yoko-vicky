@@ -1,28 +1,39 @@
-<h1 align="center"> Hi there, I'm Yoko, Frontend Developer :bee:</h1>
-<p align="center">
-<img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/typeScript.svg' alt='typescript'  height="30" width="40"> |
-<img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/nextjs.svg' alt='nextjs'  height="30" width="40"> |
-<img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/react.svg' alt='react'  height="30" width="40"> |
-<img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/js.svg' alt='javascript'  height="30" width="40"> |
-<img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/sass.svg' alt='sass/scss'  height="30" width="40"> |
-<img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/html5.svg' alt='html5'  height="30" width="40"> |
-<img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/css3.svg' alt='css3'  height="30" width="40"> |
+# Hi there, I'm Yoko — UX-focused Frontend Developer 👋
 
-</p>
-<img src="https://github.com/yoko-vicky/yoko-vicky/blob/master/images/bg.jpg" alt="Yoko, Frontend Developer">
+I bridge the gap between structure and interaction —  
+bringing clarity to products and teams through thoughtful design and development.
 
-<h2>
-I am passionate about crafting user-centric interfaces that leverage the power of cutting-edge technologies to deliver seamless digital experiences!
-</h2>
+💡 My background combines:
+- Frontend development (React / Next.js / TypeScript)
+- UX strategy and structural design
+- Cross-functional collaboration in async/global teams
 
-<h3>
-🎥 If you are a movie lover, check my latest small project <a href="https://github.com/yoko-vicky/MyFavoriteMovies" target="_blank">Moviees</a>! This was built with Next.js and Supabase. You can search, filter, collect, and share your favorite films on it.
-</h3>
+---
 
-<h3>
-:mailbox: Feel free to get in touch with me via <a href="https://www.linkedin.com/in/yoko-vicky/" target="_blank">LinkedIn</a>
-</h3>
+## 🌿 I think in flows and frameworks — not just features
 
-<p align="center">
-<a href="https://github.com/yoko-vicky" target="blank"><img align="center" src='https://github.com/yoko-vicky/yoko-vicky/blob/master/images/github-n.svg' alt='github'  height="30" width="40"></a>  | <a href="https://www.linkedin.com/in/yoko-vicky/" target="blank"><img align="center" src="https://github.com/yoko-vicky/yoko-vicky/blob/master/images/linkedin.svg" alt="LinkedIn @yokosaka" height="30" width="40" /></a>
-</p>
+Whether building a solo app or guiding team alignment,  
+I focus on how structure supports user behavior, decision-making, and experience clarity.
+
+🧠 Recently I’ve been working on:
+- UX tools to support async teams  
+- Lightweight design systems for remote collaboration  
+- Visualizing behavior and context through IA thinking
+
+---
+
+## 📦 Sample Projects
+
+🎬 [Moviees](https://github.com/yoko-vicky/MyFavoriteMovies) — A small movie library app with Next.js & Supabase  
+🧃 [Behavioral Modes in Teams](https://www.notion.so/Behavioral-Modes-in-Team-Contexts-1ed994322fd5805b9d19f12d9e92538d) — A UX exploration of team dynamics
+
+---
+
+## 📘 Full UX Portfolio
+
+🧭 [Notion Portfolio](https://www.notion.so/UX-Informed-Frontend-Development-Portfolio-...)  
+💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)
+
+---
+
+Thanks for stopping by!
