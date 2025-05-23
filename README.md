@@ -1,5 +1,7 @@
 # Hi there, I'm Yoko — UX-focused Frontend Developer 👋
 
+![cover-image](./images/github-bg.png)
+
 I bridge the gap between structure and interaction —  
 bringing clarity to products and teams through thoughtful design and development.
 
