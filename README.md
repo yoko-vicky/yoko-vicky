@@ -62,6 +62,14 @@ UX framing for inconsistent knowledge sharing across global teams.
 
 ---
 
+#### 🗂️ Tipshelf — UX Case Study for Reusable Team Insights  
+Designed an internal platform to support async knowledge sharing and reuse across remote teams.  
+→ Focused on tagging structure, posting behavior, and sustainable knowledge flow.
+
+🔗 [View Notion Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-1fd994322fd58014be42e05b4f6f5cb7)
+
+---
+
 #### 🧩 Website Redesign for a Beauty Appliance Brand  
 Real-world redesign focused on clarity, flow, and conversion.  
 → Improved information structure, messaging alignment, and UX flows.
