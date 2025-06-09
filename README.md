@@ -82,7 +82,7 @@ Real-world redesign focused on clarity, flow, and conversion.
 
 ## 📘 Full UX Portfolio
 
-🧭 [Notion Portfolio](https://abiding-snap-e4c.notion.site/Yoko-UX-Informed-Frontend-Development-Structuring-Portfolio-1cb994322fd580deab65d69fbfa3ddba?pvs=143)  
+🧭 [Notion Portfolio](https://abiding-snap-e4c.notion.site/UX-Frontend-Quick-Portfolio-Summary-20d994322fd58009abd5f0b2ebbfc1c6?pvs=74)  
 💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)
 
 ---
