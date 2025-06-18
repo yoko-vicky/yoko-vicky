@@ -2,6 +2,8 @@
 
 ![cover-image](./images/github-bg2.png)
 
+🚀 I'm currently open to remote opportunities (freelance or full-time) — especially roles that value UX-aware development and async collaboration.
+
 I bridge the gap between structure and interaction —  
 bringing clarity to products and teams through thoughtful design and development.
 
@@ -86,4 +88,5 @@ A searchable movie library with authentication and filtering logic.
 
 ---
 
-Thanks for stopping by!
+Thanks for stopping by!  
+If any of these projects resonate with you, feel free to reach out — I'm always open to thoughtful collaboration.
