@@ -30,27 +30,12 @@ A mix of self-initiated and real-world projects — blending UX thinking, struct
 
 ---
 
-#### 🎬 Moviees — Searchable Movie App (Next.js & Supabase)  
-A searchable movie library with authentication and filtering logic.  
-→ Focused on search UX, result readability, and login personalization.
+#### 🧩 Website Redesign for a Beauty Appliance Brand  
+Real-world redesign focused on clarity, flow, and conversion.  
+→ Improved information structure, messaging alignment, and UX flows.
 
-🔗 [GitHub Repo](https://github.com/yoko-vicky/MyFavoriteMovies)
-
----
-
-#### 🧃 Behavioral Modes in Teams — UX Exploration  
-Mapped how team behavior shifts not by personality but by structural/cultural conditions.  
-→ Explored team dynamics under async/cross-cultural tension using Miro.
-
-🔗 [View Project](https://abiding-snap-e4c.notion.site/Behavioral-Modes-in-Team-Contexts-215994322fd581509794c974e9772e9e?pvs=143)
-
----
-
-#### 🍓 Grab Fruits — Solo Game Development  
-A self-initiated browser game built in 3 days.  
-→ Designed intuitive learning loops and feedback UX with zero prior game dev experience.
-
-🔗 [Live Demo](https://grab-fruits-yocosaka.netlify.app/) | 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
+📈 Results: +174% sessions / –7% bounce rate  
+🔗 [View Project](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2)
 
 ---
 
@@ -70,13 +55,27 @@ Designed an internal platform to support async knowledge sharing and reuse acros
 
 ---
 
-#### 🧩 Website Redesign for a Beauty Appliance Brand  
-Real-world redesign focused on clarity, flow, and conversion.  
-→ Improved information structure, messaging alignment, and UX flows.
+#### 🧃 Behavioral Modes in Teams — UX Exploration  
+Mapped how team behavior shifts not by personality but by structural/cultural conditions.  
+→ Explored team dynamics under async/cross-cultural tension using Miro.
 
-📈 Results: +174% sessions / –7% bounce rate  
-🔗 [View Project](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2)
+🔗 [View Project](https://abiding-snap-e4c.notion.site/Behavioral-Modes-in-Team-Contexts-215994322fd581509794c974e9772e9e?pvs=143)
 
+---
+
+#### 🍓 Grab Fruits — Solo Game Development  
+A self-initiated browser game built in 3 days.  
+→ Designed intuitive learning loops and feedback UX with zero prior game dev experience.
+
+🔗 [Live Demo](https://grab-fruits-yocosaka.netlify.app/) | 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
+
+---
+
+#### 🎬 Moviees — Searchable Movie App (Next.js & Supabase)  
+A searchable movie library with authentication and filtering logic.  
+→ Focused on search UX, result readability, and login personalization.
+
+🔗 [GitHub Repo](https://github.com/yoko-vicky/MyFavoriteMovies)
 
 ---
 
