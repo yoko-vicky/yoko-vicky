@@ -61,7 +61,7 @@ Designed an internal platform to support async knowledge sharing and reuse acros
 Mapped how team behavior shifts not by personality but by structural/cultural conditions.  
 → Explored team dynamics under async/cross-cultural tension using Miro.
 
-🔗 [View Project](https://abiding-snap-e4c.notion.site/Behavioral-Modes-in-Team-Contexts-215994322fd581509794c974e9772e9e?pvs=143)
+🔗 [View Project](https://abiding-snap-e4c.notion.site/Behavioral-Modes-in-Team-Contexts-215994322fd581509794c974e9772e9e)
 
 ---
 
