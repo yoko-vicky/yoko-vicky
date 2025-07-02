@@ -1,8 +1,8 @@
-# Hi there, I'm Yoko — UX-focused Frontend Developer 👋
+# Hi there, I'm Yoko — Freelance UX-focused Frontend Developer 👋
 
 ![cover-image](./images/github-bg2.png)
 
-🚀 I'm currently open to remote opportunities (freelance or full-time) — especially roles that value UX-aware development and async collaboration.
+🚀 I'm currently collaborating remotely with teams on freelance projects (3–4 days/week) while staying open to full-time opportunities — especially roles that value UX-aware development and async collaboration.
 
 I bridge the gap between structure and interaction —  
 bringing clarity to products and teams through thoughtful design and development.
@@ -16,7 +16,7 @@ bringing clarity to products and teams through thoughtful design and development
 
 ## 🌿 I think in flows and frameworks — not just features
 
-Whether building a solo app or guiding team alignment,  
+Whether working solo, freelancing with async teams, or guiding alignment workshops,  
 I focus on how structure supports user behavior, decision-making, and experience clarity.
 
 🧠 Recently I’ve been working on:
