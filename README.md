@@ -2,7 +2,7 @@
 
 ![cover-image](./images/github-bg2.png)
 
-🚀 I'm currently working independently with remote teams, focusing on translating early-stage ideas into maintainable, user-friendly interfaces.
+🚀 Currently based in Georgia (UTC+4), working with async-first remote teams — and flexible to relocate as needed.
 
 I bridge the gap between structure and interaction —  
 bringing clarity to products and teams through thoughtful design and development.
