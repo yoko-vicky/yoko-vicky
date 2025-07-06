@@ -1,40 +1,39 @@
-# Hi there, I'm Yoko — a Collaborative & Independent Frontend Developer with a UX Focus 👋
+# Hi there, I'm Yoko — a UX-Focused Frontend Developer who values Collaboration and Self-Direction 👋
 
 ![cover-image](./images/github-bg2.png)
 
-🚀 Currently based in Georgia (UTC+4), working with async-first remote teams — and open to relocating within Europe.
+🚀 Based in Georgia (UTC+4), I work with async-first, trust-based teams — blending independent problem-solving with open, respectful collaboration.
 
-I specialize in bridging design intention and technical implementation —  
-delivering accessible, maintainable, and user-centered interfaces with a UX-focused approach.
+I specialize in bridging design and development, turning complex ideas into accessible, maintainable interfaces through clear, user-centered thinking.
 
-💡 My background combines:
+💡 My approach combines:
 - Frontend development (React / Next.js / TypeScript)
-- UX-informed architecture and structural design
-- Cross-functional, async-first collaboration in global teams
+- UX-focused architecture and structural design
+- Collaborative, async-first workflows that value shared understanding over hierarchy
 
 ---
 
-## 🌿 I think in flows and frameworks — not just features.
+## 🌿 I believe in structure that supports trust and autonomy.
 
-Whether working independently or collaborating in remote teams,  
-I focus on how structure supports user behavior, decision-making, and experience clarity.
+Whether working independently or as part of a distributed team,  
+I focus on clarifying requirements, sharing ideas early, and delivering code that respects users and teammates alike.
 
 🧠 Recently I’ve been working on:
-- Planning frontend architecture in async environments  
-- Building lightweight design systems for remote teams  
-- Translating UX insights into maintainable, testable code
+- Designing and implementing frontend architecture in async environments
+- Building lightweight design systems that balance consistency and flexibility
+- Translating UX insights into modular, testable code with clear documentation
 
 ---
 
 ### 📦 Sample Projects
 
-A mix of self-initiated and real-world projects — blending UX thinking, structural clarity, and practical frontend execution.
+A selection of self-initiated and client projects where UX thinking, ownership, and collaborative problem-solving come together.
 
 ---
 
 #### 🧩 Website Redesign for a Beauty Appliance Brand  
-Real-world redesign focused on clarity, flow, and conversion.  
-→ Improved information structure, messaging alignment, and UX flows.
+Redesign focused on clarity, trust, and conversion.  
+→ Improved information structure, messaging alignment, and user flows.
 
 📈 Results: +174% sessions / –7% bounce rate  
 🔗 [View Project](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2)
@@ -42,40 +41,40 @@ Real-world redesign focused on clarity, flow, and conversion.
 ---
 
 #### 🧠 Cultivating a Knowledge-Sharing Habit  
-UX framing for inconsistent knowledge sharing across global teams.  
-→ Designed a lightweight framework to shift team habits.
+Framed and designed a lightweight system to support open knowledge sharing in global teams.  
+→ Helped teams build trust and sustainable documentation habits.
 
 🔗 [View Project](https://abiding-snap-e4c.notion.site/Cultivating-a-Knowledge-Sharing-Habit-in-Global-Teams-215994322fd581d3816cfc814d16ca58?pvs=143)
 
 ---
 
 #### 🗂️ Tipshelf — UX Case Study for Reusable Team Insights  
-Designed an internal platform to support async knowledge sharing and reuse across remote teams.  
-→ Focused on tagging structure, posting behavior, and sustainable knowledge flow.
+Concept for async teams to share insights transparently.  
+→ Focused on tagging, structure, and reducing communication overhead.
 
 🔗 [View Notion Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-215994322fd581be9112cd4174f4ae3d?pvs=143)
 
 ---
 
 #### 🧃 Behavioral Modes in Teams — UX Exploration  
-Mapped how team behavior shifts not by personality but by structural/cultural conditions.  
-→ Explored team dynamics under async/cross-cultural tension using Miro.
+Mapped how team behavior adapts to structure and culture.  
+→ Explored dynamics of trust, safety, and shared understanding in async contexts.
 
 🔗 [View Project](https://abiding-snap-e4c.notion.site/Behavioral-Modes-in-Team-Contexts-215994322fd581509794c974e9772e9e)
 
 ---
 
 #### 🍓 Grab Fruits — Solo Game Development  
-A self-initiated browser game built in 3 days.  
-→ Designed intuitive learning loops and feedback UX with zero prior game dev experience.
+A solo-built browser game exploring intuitive feedback loops.  
+→ Emphasized player understanding through clear design and code.
 
 🔗 [Live Demo](https://grab-fruits-yocosaka.netlify.app/) | 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
 
 ---
 
 #### 🎬 Moviees — Searchable Movie App (Next.js & Supabase)  
-A searchable movie library with authentication and filtering logic.  
-→ Focused on search UX, result readability, and login personalization.
+A solo project with auth and filtering.  
+→ Focused on clear search UX, result readability, and maintainable logic.
 
 🔗 [GitHub Repo](https://github.com/yoko-vicky/MyFavoriteMovies)
 
@@ -89,4 +88,5 @@ A searchable movie library with authentication and filtering logic.
 ---
 
 Thanks for stopping by!  
-If any of these projects resonate with you, or if you're looking for a Collaborative & Independent Frontend Developer with a UX focus, feel free to reach out — I'm always open to thoughtful collaboration.
+If you're looking for a UX-Focused Frontend Developer who thrives on self-direction and collaboration, feel free to reach out.  
+I'm always open to thoughtful, trust-based teamwork.
