@@ -1,27 +1,27 @@
-# Hi there, I'm Yoko — Senior Frontend Engineer with a UX-Informed Approach 👋
+# Hi there, I'm Yoko — a Collaborative & Independent Frontend Developer with a UX Focus 👋
 
 ![cover-image](./images/github-bg2.png)
 
-🚀 Currently based in Georgia (UTC+4), working as a Senior Frontend Engineer with async-first remote teams — and open to relocation within Europe.
+🚀 Currently based in Georgia (UTC+4), working with async-first remote teams — and open to relocating within Europe.
 
-I specialize in bridging design intention and technical implementation — 
-delivering scalable, maintainable, and accessible interfaces with a UX-informed approach.
+I specialize in bridging design intention and technical implementation —  
+delivering accessible, maintainable, and user-centered interfaces with a UX-focused approach.
 
 💡 My background combines:
-- Senior-level frontend development (React / Next.js / TypeScript)
+- Frontend development (React / Next.js / TypeScript)
 - UX-informed architecture and structural design
-- Mentoring and cross-functional alignment in async/global teams
+- Cross-functional, async-first collaboration in global teams
 
 ---
 
-## 🌿 I think in flows and frameworks — not just features. As a senior engineer, I focus on how structure supports user behavior, decision-making, and experience clarity.
+## 🌿 I think in flows and frameworks — not just features.
 
-Whether working solo, collaborating with remote teams, or guiding alignment workshops,  
+Whether working independently or collaborating in remote teams,  
 I focus on how structure supports user behavior, decision-making, and experience clarity.
 
 🧠 Recently I’ve been working on:
-- Leading frontend architecture planning for async teams  
-- Building lightweight design systems for remote collaboration  
+- Planning frontend architecture in async environments  
+- Building lightweight design systems for remote teams  
 - Translating UX insights into maintainable, testable code
 
 ---
@@ -89,4 +89,4 @@ A searchable movie library with authentication and filtering logic.
 ---
 
 Thanks for stopping by!  
-If any of these projects resonate with you, or if you're looking for a Senior Frontend Engineer with a UX-informed approach, feel free to reach out — I'm always open to thoughtful collaboration.
+If any of these projects resonate with you, or if you're looking for a Collaborative & Independent Frontend Developer with a UX focus, feel free to reach out — I'm always open to thoughtful collaboration.
