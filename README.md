@@ -1,4 +1,4 @@
-# # Hi there, I'm Yoko — a UX-Focused Frontend Developer 👋
+# Hi there, I'm Yoko — a UX-Focused Frontend Developer 👋
 
 ![cover-image](./images/github-bg2.png)
 
