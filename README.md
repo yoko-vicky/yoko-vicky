@@ -1,8 +1,8 @@
-# Hi there, I'm Yoko — a UX-Focused Frontend Developer who values Collaboration and Self-Direction 👋
+# # Hi there, I'm Yoko — a UX-Focused Frontend Developer 👋
 
 ![cover-image](./images/github-bg2.png)
 
-🚀 Based in Georgia (UTC+4), I work with async-first, trust-based teams — blending independent problem-solving with open, respectful collaboration.
+🚀 Based in Georgia (UTC+4), I work with async-first, trust-based teams — blending independent problem-solving with open, respectful collaboration. I'm also open to relocating with visa sponsorship to work closely with teams in their country.
 
 I specialize in bridging design and development, turning complex ideas into accessible, maintainable interfaces through clear, user-centered thinking.
 
