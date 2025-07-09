@@ -4,7 +4,7 @@
 
 🚀 Based in Georgia (UTC+4), I work with async-first, trust-based teams — blending independent problem-solving with open, respectful collaboration. I'm also open to relocating with visa sponsorship to work closely with teams in their country.
 
-I specialize in bridging design and development, turning complex ideas into accessible, maintainable interfaces through clear, user-centered thinking.
+I specialize in bridging design and development, turning complex ideas into accessible, maintainable interfaces through clear, user-centered thinking — including seamless API integration and database access when needed.
 
 💡 My approach combines:
 - Frontend development (React / Next.js / TypeScript)
@@ -21,7 +21,7 @@ I focus on clarifying requirements, sharing ideas early, and delivering code tha
 🧠 Recently I’ve been working on:
 - Designing and implementing frontend architecture in async environments
 - Building lightweight design systems that balance consistency and flexibility
-- Translating UX insights into modular, testable code with clear documentation
+- Translating UX insights into modular, testable code with clear documentation, including API and database integration
 
 ---
 
