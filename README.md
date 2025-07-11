@@ -78,7 +78,7 @@ A solo project with auth and filtering.
 
 ## 📘 Portfolio & Contact
 
-🧭 [UX-Focused Frontend Portfolio](https://www.yokoworks.dev/)  
+🧭 [Yoko | Portfolio & Services](https://www.yokoworks.dev/)  
 💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)
 
 ---
