@@ -1,12 +1,13 @@
-# Hi there, I'm Yoko — a Frontend Developer Bridging Design, Data, and Code  👋
+# Hi there, I'm Yoko — a Frontend Developer Bridging Design, Data, and Code 👋
 
-![cover-image](./images/github-bg2.png)
+![cover-image](./images/center-bg-min.png)
 
 🚀 Based in Georgia (UTC+4), I work with async-first, trust-based teams around the world. I focus on delivering clear, accessible interfaces through freelance projects, contract roles, and full-time collaborations. Also open to relocation with visa sponsorship to work closely with teams in their country.
 
 I specialize in bridging design, data, and development — turning complex ideas into accessible, maintainable interfaces with clear, user-centered thinking, seamless API integration, and robust database access.
 
 💡 My approach combines:
+
 - Frontend development (React / Next.js / TypeScript)
 - UX-informed architecture and clear component design
 - API integration planning and implementation
@@ -20,6 +21,7 @@ Whether working independently or as part of a distributed team,
 I focus on clarifying requirements, sharing ideas early, and delivering code that respects users and teammates alike.
 
 🧠 Recently, I’ve been working on:
+
 - Designing and implementing frontend architecture in async environments
 - Building maintainable, modular UI components from Figma
 - Planning and implementing API integration with backend teams
@@ -33,7 +35,8 @@ A selection of self-initiated and client projects where UX thinking, ownership, 
 
 ---
 
-#### 🧩 Website Redesign for a Beauty Appliance Brand  
+#### 🧩 Website Redesign for a Beauty Appliance Brand
+
 Led a UX-driven website overhaul for a mid-sized beauty appliance brand. Improved clarity, trust, and conversion by restructuring content and user flows.
 
 📈 Results: +174% sessions / –7% bounce rate  
@@ -41,21 +44,24 @@ Led a UX-driven website overhaul for a mid-sized beauty appliance brand. Improve
 
 ---
 
-#### 🧠 Cultivating a Knowledge-Sharing Habit  
+#### 🧠 Cultivating a Knowledge-Sharing Habit
+
 Designed a lightweight system to turn ad-hoc knowledge sharing into a team habit. Mapped blockers and created low-pressure rituals for global teams.
 
 🔗 [View Project](https://abiding-snap-e4c.notion.site/Cultivating-a-Knowledge-Sharing-Habit-in-Global-Teams-215994322fd581d3816cfc814d16ca58?pvs=143)
 
 ---
 
-#### 🗂️ Tipshelf – Internal Knowledge Sharing Tool 
+#### 🗂️ Tipshelf – Internal Knowledge Sharing Tool
+
 A UX case study for an internal knowledge-sharing tool to capture company-specific, hard-to-Google solutions. Explores structured contribution, tagging systems, and clear interface flows for async teams.
 
 🔗 [View Notion Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-215994322fd581be9112cd4174f4ae3d?pvs=143)
 
 ---
 
-#### 🧃 Behavioral Modes in Team Contexts — UX Exploration  
+#### 🧃 Behavioral Modes in Team Contexts — UX Exploration
+
 Mapped how team behavior adapts to structure and culture.  
 → Explored dynamics of trust, safety, and shared understanding in async contexts.
 
@@ -64,13 +70,15 @@ Mapped how team behavior adapts to structure and culture.
 ---
 
 #### 🍓 Grab Fruits – Solo Game Design & Development
+
 A solo-built browser game from concept to code. Focused on intuitive gameplay loops, minimal UI, and clear feedback for player understanding.
 
 🔗 [Live Demo](https://grab-fruits-yocosaka.netlify.app/) | 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
 
 ---
 
-#### 🎬 Moviees — Searchable Movie App (Next.js & Supabase)  
+#### 🎬 Moviees — Searchable Movie App (Next.js & Supabase)
+
 A solo project with auth and filtering.  
 → Focused on clear search UX, result readability, and maintainable logic.
 
