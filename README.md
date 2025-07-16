@@ -31,58 +31,64 @@ I focus on clarifying requirements, sharing ideas early, and delivering code tha
 
 ### 📦 Sample Projects
 
-A selection of self-initiated and client projects where UX thinking, ownership, and collaborative problem-solving come together.
+A curated selection showcasing API integration, frontend architecture, and user-centered design.
 
 ---
 
-#### 🧩 Website Redesign for a Beauty Appliance Brand
-
-Led a UX-driven website overhaul for a mid-sized beauty appliance brand. Improved clarity, trust, and conversion by restructuring content and user flows.
-
-📈 Results: +174% sessions / –7% bounce rate  
-🔗 [View Project](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2)
+#### 🌐 Web3 EdTech Platform
+Sole frontend developer in a 4-person async team. Designed API contracts, aligned Prisma DB schema, and implemented secure Metamask authentication for Web3 onboarding.  
+✅ Next.js / TypeScript / Prisma / API Integration  
+🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
 
 ---
 
-#### 🧠 Cultivating a Knowledge-Sharing Habit
-
-Designed a lightweight system to turn ad-hoc knowledge sharing into a team habit. Mapped blockers and created low-pressure rituals for global teams.
-
-🔗 [View Project](https://abiding-snap-e4c.notion.site/Cultivating-a-Knowledge-Sharing-Habit-in-Global-Teams-215994322fd581d3816cfc814d16ca58?pvs=143)
-
----
-
-#### 🗂️ Tipshelf – Internal Knowledge Sharing Tool
-
-A UX case study for an internal knowledge-sharing tool to capture company-specific, hard-to-Google solutions. Explores structured contribution, tagging systems, and clear interface flows for async teams.
-
-🔗 [View Notion Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-215994322fd581be9112cd4174f4ae3d?pvs=143)
+#### 🗂️ Automated Monthly PDF Report Tool
+Built an internal reporting tool that generates multi-page client PDFs. Defined API contracts, integrated Prisma queries, and automated generation with Puppeteer.  
+✅ React / TypeScript / Prisma / Puppeteer  
+🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
 
 ---
 
-#### 🧃 Behavioral Modes in Team Contexts — UX Exploration
-
-Mapped how team behavior adapts to structure and culture.  
-→ Explored dynamics of trust, safety, and shared understanding in async contexts.
-
-🔗 [View Project](https://abiding-snap-e4c.notion.site/Behavioral-Modes-in-Team-Contexts-215994322fd581509794c974e9772e9e)
+#### 📈 Tracking App – Fullstack Habit Tracker
+Solo-built full-stack app with Rails REST API and React/Redux frontend. Focused on clear UX flows, maintainable data schema, and frictionless daily logging.  
+✅ React / Redux / Rails / REST API  
+🔗 [GitHub Repo](https://github.com/yoko-vicky/Tracking-App-with-React-Redux)
 
 ---
 
-#### 🍓 Grab Fruits – Solo Game Design & Development
-
-A solo-built browser game from concept to code. Focused on intuitive gameplay loops, minimal UI, and clear feedback for player understanding.
-
-🔗 [Live Demo](https://grab-fruits-yocosaka.netlify.app/) | 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
-
----
-
-#### 🎬 Moviees — Searchable Movie App (Next.js & Supabase)
-
-A solo project with auth and filtering.  
-→ Focused on clear search UX, result readability, and maintainable logic.
-
+#### 🎬 My Favorite Movies – Searchable Movie Library
+Fullstack app with secure Google login, Supabase/Postgres DB, and Prisma-based API integration. Designed clear search UX with personalized movie lists.  
+✅ Next.js / Supabase / Prisma / Authentication  
 🔗 [GitHub Repo](https://github.com/yoko-vicky/MyFavoriteMovies)
+
+---
+
+#### 🧩 UX-Oriented Website Redesign
+Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarity, trust, and conversion by restructuring content and user flows.  
+✅ Information Architecture / User Flow / Content Strategy  
+📈 Results: +174% sessions / –7% bounce rate  
+🔗 [View Case Study](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
+
+---
+
+#### 💡 Tipshelf – Internal Knowledge Sharing Tool
+UX case study exploring structured contribution and clear interface flows for async teams.  
+✅ UX Architecture / Tagging System / Prototyping  
+🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-215994322fd581be9112cd4174f4ae3d)
+
+---
+
+#### 🍓 Grab Fruits – Solo Game Design & Development *(Optional)*
+Browser game built from concept to code. Explored intuitive gameplay loops, minimal UI, and clear feedback for players.  
+✅ JavaScript / Phaser / Game UX  
+🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
+
+---
+
+#### 🪷 Retrospective Lite *(Optional)*
+A self-initiated UX tool for remote teams to reflect more inclusively with structured, low-pressure prompts.  
+✅ UX Facilitation / Remote Team Design  
+🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Retrospective-Lite-A-Gentle-Canvas-for-Reflection-in-Remote-Teams-215994322fd581f0ae9af6011f6d9aff)
 
 ---
 
