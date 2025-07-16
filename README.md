@@ -1,15 +1,16 @@
-# Hi there, I'm Yoko — a UX-focused Frontend Developer 👋
+# Hi there, I'm Yoko — a Frontend Developer Bridging Design, Data, and Code  👋
 
 ![cover-image](./images/github-bg2.png)
 
 🚀 Based in Georgia (UTC+4), I work with async-first, trust-based teams around the world. I focus on delivering clear, accessible interfaces through freelance projects, contract roles, and full-time collaborations. Also open to relocation with visa sponsorship to work closely with teams in their country.
 
-I specialize in bridging design and development, turning complex ideas into accessible, maintainable interfaces through clear, user-centered thinking — including seamless API integration and database access when needed.
+I specialize in bridging design, data, and development — turning complex ideas into accessible, maintainable interfaces with clear, user-centered thinking, seamless API integration, and robust database access.
 
 💡 My approach combines:
 - Frontend development (React / Next.js / TypeScript)
-- UX-focused architecture and design
-- Collaborative, async-friendly workflows across freelance, contract, or full-time projects
+- UX-informed architecture and clear component design
+- API integration planning and implementation
+- Collaborative, async-friendly workflows for freelance, contract, or full-time projects
 
 ---
 
@@ -20,8 +21,9 @@ I focus on clarifying requirements, sharing ideas early, and delivering code tha
 
 🧠 Recently, I’ve been working on:
 - Designing and implementing frontend architecture in async environments
-- Building lightweight design systems that balance consistency and flexibility
-- Translating UX insights into modular, testable code with clear documentation, including API and database integration
+- Building maintainable, modular UI components from Figma
+- Planning and implementing API integration with backend teams
+- Translating design insights into testable code with clear documentation
 
 ---
 
@@ -84,5 +86,4 @@ A solo project with auth and filtering.
 ---
 
 Thanks for stopping by!  
-If you're looking for a UX-focused frontend Developer who thrives on self-direction and collaboration, feel free to reach out.  
-I'm always open to thoughtful, trust-based teamwork — whether for freelance, contract, or full-time opportunities.
+If you're looking for a frontend developer who bridges design and engineering — thriving on self-direction, collaboration, and clear communication...
