@@ -20,12 +20,17 @@ I specialize in bridging design, data, and development — turning complex ideas
 Whether working independently or as part of a distributed team,  
 I focus on clarifying requirements, sharing ideas early, and delivering code that respects users and teammates alike.
 
+🔍 I’m currently deepening my accessibility practice — learning to design and build with inclusion from the start. I see accessibility not just as a checklist, but as a way to sharpen engineering, UX, and real-world care.
+
+📖 I also write about what I learn:  
+[How Accessibility Became a New Lens in My Work – and Why I'm Learning to See More Clearly ↗](https://medium.com/@yokoworks.dev/how-accessibility-became-a-new-lens-in-my-work-and-why-im-learning-to-see-more-clearly-5f7e2a6d5cc5)
+
 🧠 Recently, I’ve been working on:
 
-- Designing and implementing frontend architecture in async environments
-- Building maintainable, modular UI components from Figma
-- Planning and implementing API integration with backend teams
-- Translating design insights into testable code with clear documentation
+- Designing and implementing frontend architecture in async environments  
+- Building maintainable, modular UI components from Figma  
+- Planning and implementing API integration with backend teams  
+- Translating design insights into testable code with clear documentation  
 
 ---
 
@@ -35,35 +40,35 @@ A curated selection showcasing API integration, frontend architecture, and user-
 
 ---
 
-#### 🌐 Web3 EdTech Platform
+#### 🌐 Web3 EdTech Platform  
 Sole frontend developer in a 4-person async team. Designed API contracts, aligned Prisma DB schema, and implemented secure Metamask authentication for Web3 onboarding.  
 ✅ Next.js / TypeScript / Prisma / API Integration  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
 
 ---
 
-#### 🗂️ Automated Monthly PDF Report Tool
+#### 🗂️ Automated Monthly PDF Report Tool  
 Built an internal reporting tool that generates multi-page client PDFs. Defined API contracts, integrated Prisma queries, and automated generation with Puppeteer.  
 ✅ React / TypeScript / Prisma / Puppeteer  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
 
 ---
 
-#### 📈 Tracking App – Fullstack Habit Tracker
+#### 📈 Tracking App – Fullstack Habit Tracker  
 Solo-built full-stack app with Rails REST API and React/Redux frontend. Focused on clear UX flows, maintainable data schema, and frictionless daily logging.  
 ✅ React / Redux / Rails / REST API  
 🔗 [GitHub Repo](https://github.com/yoko-vicky/Tracking-App-with-React-Redux)
 
 ---
 
-#### 🎬 My Favorite Movies – Searchable Movie Library
+#### 🎬 My Favorite Movies – Searchable Movie Library  
 Fullstack app with secure Google login, Supabase/Postgres DB, and Prisma-based API integration. Designed clear search UX with personalized movie lists.  
 ✅ Next.js / Supabase / Prisma / Authentication  
 🔗 [GitHub Repo](https://github.com/yoko-vicky/MyFavoriteMovies)
 
 ---
 
-#### 🧩 UX-Oriented Website Redesign
+#### 🧩 UX-Oriented Website Redesign  
 Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarity, trust, and conversion by restructuring content and user flows.  
 ✅ Information Architecture / User Flow / Content Strategy  
 📈 Results: +174% sessions / –7% bounce rate  
@@ -71,21 +76,21 @@ Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarit
 
 ---
 
-#### 💡 Tipshelf – Internal Knowledge Sharing Tool
+#### 💡 Tipshelf – Internal Knowledge Sharing Tool  
 UX case study exploring structured contribution and clear interface flows for async teams.  
 ✅ UX Architecture / Tagging System / Prototyping  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-215994322fd581be9112cd4174f4ae3d)
 
 ---
 
-#### 🍓 Grab Fruits – Solo Game Design & Development *(Optional)*
+#### 🍓 Grab Fruits – Solo Game Design & Development *(Optional)*  
 Browser game built from concept to code. Explored intuitive gameplay loops, minimal UI, and clear feedback for players.  
 ✅ JavaScript / Phaser / Game UX  
 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
 
 ---
 
-#### 🪷 Retrospective Lite *(Optional)*
+#### 🪷 Retrospective Lite *(Optional)*  
 A self-initiated UX tool for remote teams to reflect more inclusively with structured, low-pressure prompts.  
 ✅ UX Facilitation / Remote Team Design  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Retrospective-Lite-A-Gentle-Canvas-for-Reflection-in-Remote-Teams-215994322fd581f0ae9af6011f6d9aff)
@@ -95,7 +100,8 @@ A self-initiated UX tool for remote teams to reflect more inclusively with struc
 ## 📘 Portfolio & Contact
 
 🧭 [Yoko | Portfolio & Services](https://www.yokoworks.dev/)  
-💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)
+💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)  
+📰 [Read Articles on Medium](https://medium.com/@yokoworks.dev)
 
 ---
 
