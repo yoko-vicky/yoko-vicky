@@ -4,7 +4,8 @@
 
 🚀 Based in Georgia (UTC+4), I work with async-first, trust-based teams around the world. I focus on delivering clear, accessible interfaces through freelance projects, contract roles, and full-time collaborations. Also open to relocation with visa sponsorship to work closely with teams in their country.
 
-I specialize in bridging design, data, and development — turning complex ideas into accessible, maintainable interfaces with clear, user-centered thinking, seamless API integration, and robust database access.
+I specialize in bridging design, data, and development — turning complex ideas into accessible, maintainable interfaces with clear, user-centered thinking, seamless API integration, and robust database access.  
+
 
 💡 My approach combines:
 
@@ -24,6 +25,11 @@ I focus on clarifying requirements, sharing ideas early, and delivering code tha
 
 📖 I also write about what I learn:  
 [How Accessibility Became a New Lens in My Work – and Why I'm Learning to See More Clearly ↗](https://medium.com/@yokoworks.dev/how-accessibility-became-a-new-lens-in-my-work-and-why-im-learning-to-see-more-clearly-5f7e2a6d5cc5)
+
+✨ One of my recent articles — [From Universal Design to Personalized Interfaces ↗](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b) — was featured in [Bootcamp (UX Collective)](https://bootcamp.uxdesign.cc), a curated UX publication reaching 3M+ monthly readers.
+
+
+
 
 🧠 Recently, I’ve been working on:
 
