@@ -1,11 +1,10 @@
 # Hi, I'm Yoko — a Frontend Developer Bridging Design Logic and Data Flow 👋
 
-![cover-image](./images/center-bg-min.png)
+![cover-image](./images/bg.png)
 
-🚀 I work with async-first, trust-based teams around the world. 
+🚀 I work with async-first, trust-based teams around the world.
 I focus on delivering accessible, maintainable, and intuitive interfaces — translating UX thinking into aligned frontend–backend flows.  
 My work often involves defining API contracts from frontend needs, aligning logic with data shape, and reducing ambiguity between designers and backend engineers.
-
 
 💡 My approach combines:
 
@@ -28,13 +27,11 @@ I focus on clarifying requirements, sharing ideas early, and delivering code tha
 
 ✨ One of my recent articles — [From Universal Design to Personalized Interfaces ↗](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b) — was featured in [Bootcamp (UX Collective)](https://bootcamp.uxdesign.cc), a curated UX publication reaching 3M+ monthly readers.
 
-
-
 🧠 Recently, I’ve been working on:
 
-- Designing and implementing frontend architecture in async environments  
-- Aligning UI logic with backend structure and defining API contracts  
-- Building modular, maintainable UI components from Figma  
+- Designing and implementing frontend architecture in async environments
+- Aligning UI logic with backend structure and defining API contracts
+- Building modular, maintainable UI components from Figma
 - Translating design insights into testable, clear code with documentation
 
 ---
@@ -45,35 +42,40 @@ A curated selection showcasing API & Schema Design, frontend architecture, and u
 
 ---
 
-#### 🌐 Web3 EdTech Platform  
+#### 🌐 Web3 EdTech Platform
+
 Sole frontend developer in a 4-person async team. Designed API contracts, aligned Prisma DB schema, and implemented secure Metamask authentication for Web3 onboarding.  
 ✅ Next.js / TypeScript / Prisma / API & Schema Design  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
 
 ---
 
-#### 🗂️ Automated Monthly PDF Report Tool  
+#### 🗂️ Automated Monthly PDF Report Tool
+
 Built an internal reporting tool that generates multi-page client PDFs. Defined API contracts, integrated Prisma queries, and automated generation with Puppeteer.  
 ✅ React / TypeScript / Prisma / Puppeteer  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
 
 ---
 
-#### 📈 Tracking App – Fullstack Habit Tracker  
+#### 📈 Tracking App – Fullstack Habit Tracker
+
 Solo-built full-stack app with Rails REST API and React/Redux frontend. Focused on clear UX flows, maintainable data schema, and frictionless daily logging.  
 ✅ React / Redux / Rails / REST API  
 🔗 [GitHub Repo](https://github.com/yoko-vicky/Tracking-App-with-React-Redux)
 
 ---
 
-#### 🎬 My Favorite Movies – Searchable Movie Library  
+#### 🎬 My Favorite Movies – Searchable Movie Library
+
 Fullstack app with secure Google login, Supabase/Postgres DB, and Prisma-based API & Schema Design. Designed clear search UX with personalized movie lists.  
 ✅ Next.js / Supabase / Prisma / Authentication  
 🔗 [GitHub Repo](https://github.com/yoko-vicky/MyFavoriteMovies)
 
 ---
 
-#### 🧩 UX-Oriented Website Redesign  
+#### 🧩 UX-Oriented Website Redesign
+
 Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarity, trust, and conversion by restructuring content and user flows.  
 ✅ Information Architecture / User Flow / Content Strategy  
 📈 Results: +174% sessions / –7% bounce rate  
@@ -81,21 +83,24 @@ Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarit
 
 ---
 
-#### 💡 Tipshelf – Internal Knowledge Sharing Tool  
+#### 💡 Tipshelf – Internal Knowledge Sharing Tool
+
 UX case study exploring structured contribution and clear interface flows for async teams.  
 ✅ UX Architecture / Tagging System / Prototyping  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-215994322fd581be9112cd4174f4ae3d)
 
 ---
 
-#### 🍓 Grab Fruits – Solo Game Design & Development *(Optional)*  
+#### 🍓 Grab Fruits – Solo Game Design & Development _(Optional)_
+
 Browser game built from concept to code. Explored intuitive gameplay loops, minimal UI, and clear feedback for players.  
 ✅ JavaScript / Phaser / Game UX  
 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
 
 ---
 
-#### 🪷 Retrospective Lite *(Optional)*  
+#### 🪷 Retrospective Lite _(Optional)_
+
 A self-initiated UX tool for remote teams to reflect more inclusively with structured, low-pressure prompts.  
 ✅ UX Facilitation / Remote Team Design  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Retrospective-Lite-A-Gentle-Canvas-for-Reflection-in-Remote-Teams-215994322fd581f0ae9af6011f6d9aff)
