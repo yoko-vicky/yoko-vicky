@@ -1,18 +1,18 @@
-# Hi there, I'm Yoko — a Frontend Developer Bridging Design, Data, and Code 👋
+# Hi, I'm Yoko — a Frontend Developer Bridging Design Logic and Data Flow 👋
 
 ![cover-image](./images/center-bg-min.png)
 
-🚀 Based in Georgia (UTC+4), I work with async-first, trust-based teams around the world. I focus on delivering clear, accessible interfaces through freelance projects, contract roles, and full-time collaborations. Also open to relocation with visa sponsorship to work closely with teams in their country.
-
-I specialize in bridging design, data, and development — turning complex ideas into accessible, maintainable interfaces with clear, user-centered thinking, seamless API integration, and robust database access.  
+🚀 I work with async-first, trust-based teams around the world. 
+I focus on delivering accessible, maintainable, and intuitive interfaces — translating UX thinking into aligned frontend–backend flows.  
+My work often involves defining API contracts from frontend needs, aligning logic with data shape, and reducing ambiguity between designers and backend engineers.
 
 
 💡 My approach combines:
 
 - Frontend development (React / Next.js / TypeScript)
-- UX-informed architecture and clear component design
-- API integration planning and implementation
-- Collaborative, async-friendly workflows for freelance, contract, or full-time projects
+- UX-driven architecture and async-friendly component structure
+- API contract definition and integration based on frontend logic
+- Clear communication in distributed, trust-based teams
 
 ---
 
@@ -30,25 +30,24 @@ I focus on clarifying requirements, sharing ideas early, and delivering code tha
 
 
 
-
 🧠 Recently, I’ve been working on:
 
 - Designing and implementing frontend architecture in async environments  
-- Building maintainable, modular UI components from Figma  
-- Planning and implementing API integration with backend teams  
-- Translating design insights into testable code with clear documentation  
+- Aligning UI logic with backend structure and defining API contracts  
+- Building modular, maintainable UI components from Figma  
+- Translating design insights into testable, clear code with documentation
 
 ---
 
-### 📦 Sample Projects
+### 📦 Selected Projects: API & Schema Design, UX–Backend Logic, Data Integration, and Interface Clarity
 
-A curated selection showcasing API integration, frontend architecture, and user-centered design.
+A curated selection showcasing API & Schema Design, frontend architecture, and user-centered design.
 
 ---
 
 #### 🌐 Web3 EdTech Platform  
 Sole frontend developer in a 4-person async team. Designed API contracts, aligned Prisma DB schema, and implemented secure Metamask authentication for Web3 onboarding.  
-✅ Next.js / TypeScript / Prisma / API Integration  
+✅ Next.js / TypeScript / Prisma / API & Schema Design  
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
 
 ---
@@ -68,7 +67,7 @@ Solo-built full-stack app with Rails REST API and React/Redux frontend. Focused 
 ---
 
 #### 🎬 My Favorite Movies – Searchable Movie Library  
-Fullstack app with secure Google login, Supabase/Postgres DB, and Prisma-based API integration. Designed clear search UX with personalized movie lists.  
+Fullstack app with secure Google login, Supabase/Postgres DB, and Prisma-based API & Schema Design. Designed clear search UX with personalized movie lists.  
 ✅ Next.js / Supabase / Prisma / Authentication  
 🔗 [GitHub Repo](https://github.com/yoko-vicky/MyFavoriteMovies)
 
@@ -111,5 +110,7 @@ A self-initiated UX tool for remote teams to reflect more inclusively with struc
 
 ---
 
+I’m especially passionate about clarifying logic across layers — from user flows to database design — to build products that feel simple, even when they aren’t.
+
 Thanks for stopping by!  
-If you're looking for a frontend developer who bridges design and engineering — thriving on self-direction, collaboration, and clear communication...
+If you're looking for a frontend developer who bridges design and engineering, let’s build something thoughtful together.
