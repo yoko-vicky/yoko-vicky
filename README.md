@@ -1,6 +1,6 @@
 # Hi, I'm Yoko — a Frontend Developer Bridging Design Logic and Data Flow 👋
 
-![cover-image](./images/bg.png)
+![cover-image](./images/bg-n.png)
 
 🚀 I work with async-friendly, trust-based teams around the world — remote, hybrid, or on-site.
 I focus on delivering accessible, maintainable, and intuitive interfaces — translating UX thinking into aligned frontend–backend flows.  
