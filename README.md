@@ -2,7 +2,7 @@
 
 ![cover-image](./images/bg.png)
 
-🚀 I work with async-first, trust-based teams around the world.
+🚀 I work with async-friendly, trust-based teams around the world — remote, hybrid, or on-site.
 I focus on delivering accessible, maintainable, and intuitive interfaces — translating UX thinking into aligned frontend–backend flows.  
 My work often involves defining API contracts from frontend needs, aligning logic with data shape, and reducing ambiguity between designers and backend engineers.
 
