@@ -124,6 +124,7 @@ A self-initiated UX tool for remote teams to reflect more inclusively with struc
 🧭 [Yoko | Portfolio & Services](https://www.yokoworks.dev/)  
 💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)  
 📰 [Read Articles on Medium](https://medium.com/@yokoworks.dev)
+🐦 [Follow on X (Twitter)](https://x.com/yokoworks)
 
 ---
 
