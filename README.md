@@ -42,10 +42,22 @@ A curated selection showcasing API & Schema Design, frontend architecture, and u
 
 ---
 
+#### 🧠 A11y-Focused Interview Flashcard App
+
+Real-world accessibility-focused app for non-native English speakers to practice job interviews. Built from the ground up with WCAG compliance, screen reader support, and full keyboard accessibility.
+
+✅ Next.js / TypeScript / Tailwind CSS / Zustand / A11y by Design<br /><br />
+🚀 [Try the App](https://www.promotee.app/) <br />
+🛠 [View Case Study](https://abiding-snap-e4c.notion.site/Interview-Flashcard-App-A11Y-by-Design-In-Progress-249994322fd5806eb993deffb22cc09c?pvs=74) <br />
+📝 [Read the Story on Medium](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
+
+
+---
+
 #### 🌐 Web3 EdTech Platform
 
 Sole frontend developer in a 4-person async team. Designed API contracts, aligned Prisma DB schema, and implemented secure Metamask authentication for Web3 onboarding.  
-✅ Next.js / TypeScript / Prisma / API & Schema Design  
+✅ Next.js / TypeScript / Prisma / API & Schema Design  <br /><br />
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
 
 ---
@@ -53,7 +65,7 @@ Sole frontend developer in a 4-person async team. Designed API contracts, aligne
 #### 🗂️ Automated Monthly PDF Report Tool
 
 Built an internal reporting tool that generates multi-page client PDFs. Defined API contracts, integrated Prisma queries, and automated generation with Puppeteer.  
-✅ React / TypeScript / Prisma / Puppeteer  
+✅ React / TypeScript / Prisma / Puppeteer  <br /><br />
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
 
 ---
@@ -61,7 +73,7 @@ Built an internal reporting tool that generates multi-page client PDFs. Defined 
 #### 📈 Tracking App – Fullstack Habit Tracker
 
 Solo-built full-stack app with Rails REST API and React/Redux frontend. Focused on clear UX flows, maintainable data schema, and frictionless daily logging.  
-✅ React / Redux / Rails / REST API  
+✅ React / Redux / Rails / REST API  <br /><br />
 🔗 [GitHub Repo](https://github.com/yoko-vicky/Tracking-App-with-React-Redux)
 
 ---
@@ -69,7 +81,7 @@ Solo-built full-stack app with Rails REST API and React/Redux frontend. Focused 
 #### 🎬 My Favorite Movies – Searchable Movie Library
 
 Fullstack app with secure Google login, Supabase/Postgres DB, and Prisma-based API & Schema Design. Designed clear search UX with personalized movie lists.  
-✅ Next.js / Supabase / Prisma / Authentication  
+✅ Next.js / Supabase / Prisma / Authentication  <br /><br />
 🔗 [GitHub Repo](https://github.com/yoko-vicky/MyFavoriteMovies)
 
 ---
@@ -78,7 +90,7 @@ Fullstack app with secure Google login, Supabase/Postgres DB, and Prisma-based A
 
 Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarity, trust, and conversion by restructuring content and user flows.  
 ✅ Information Architecture / User Flow / Content Strategy  
-📈 Results: +174% sessions / –7% bounce rate  
+📈 Results: +174% sessions / –7% bounce rate  <br /><br />
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
 
 ---
@@ -86,7 +98,7 @@ Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarit
 #### 💡 Tipshelf – Internal Knowledge Sharing Tool
 
 UX case study exploring structured contribution and clear interface flows for async teams.  
-✅ UX Architecture / Tagging System / Prototyping  
+✅ UX Architecture / Tagging System / Prototyping  <br /><br />
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-215994322fd581be9112cd4174f4ae3d)
 
 ---
@@ -94,7 +106,7 @@ UX case study exploring structured contribution and clear interface flows for as
 #### 🍓 Grab Fruits – Solo Game Design & Development _(Optional)_
 
 Browser game built from concept to code. Explored intuitive gameplay loops, minimal UI, and clear feedback for players.  
-✅ JavaScript / Phaser / Game UX  
+✅ JavaScript / Phaser / Game UX  <br /><br />
 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
 
 ---
@@ -102,7 +114,7 @@ Browser game built from concept to code. Explored intuitive gameplay loops, mini
 #### 🪷 Retrospective Lite _(Optional)_
 
 A self-initiated UX tool for remote teams to reflect more inclusively with structured, low-pressure prompts.  
-✅ UX Facilitation / Remote Team Design  
+✅ UX Facilitation / Remote Team Design  <br /><br />
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Retrospective-Lite-A-Gentle-Canvas-for-Reflection-in-Remote-Teams-215994322fd581f0ae9af6011f6d9aff)
 
 ---
