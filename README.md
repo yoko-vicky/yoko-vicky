@@ -107,7 +107,7 @@ Browser game built from concept to code. Explored intuitive gameplay loops, mini
 🧭 [Yoko | Portfolio & Services](https://www.yokoworks.dev/)  
 💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)  
 📰 [Read Articles on Medium](https://medium.com/@yokoworks.dev) <br />
-🐦 [Follow on X (Twitter)](https://x.com/yokoworks)
+🐣 [New to X (starting from zero, as we all do!) ](https://x.com/yokoworks)
 
 ---
 
