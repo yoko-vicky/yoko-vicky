@@ -51,7 +51,6 @@ Real-world accessibility-focused app for non-native English speakers to practice
 🛠 [View Case Study](https://abiding-snap-e4c.notion.site/Interview-Flashcard-App-A11Y-by-Design-In-Progress-249994322fd5806eb993deffb22cc09c?pvs=74) <br />
 📝 [Read the Story on Medium](https://medium.com/@yokoworks.dev/what-building-my-first-a11y-focused-app-taught-me-7a2811de2fb1)
 
-
 ---
 
 #### 🌐 Web3 EdTech Platform
@@ -67,6 +66,15 @@ Sole frontend developer in a 4-person async team. Designed API contracts, aligne
 Built an internal reporting tool that generates multi-page client PDFs. Defined API contracts, integrated Prisma queries, and automated generation with Puppeteer.  
 ✅ React / TypeScript / Prisma / Puppeteer  <br /><br />
 🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
+
+---
+
+#### 🧩 UX-Oriented Website Redesign
+
+Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarity, trust, and conversion by restructuring content and user flows.  
+✅ Information Architecture / User Flow / Content Strategy  
+📈 Results: +174% sessions / –7% bounce rate  <br /><br />
+🔗 [View Case Study](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
 
 ---
 
@@ -86,36 +94,11 @@ Fullstack app with secure Google login, Supabase/Postgres DB, and Prisma-based A
 
 ---
 
-#### 🧩 UX-Oriented Website Redesign
-
-Led a UX-driven overhaul for a mid-sized beauty appliance brand. Improved clarity, trust, and conversion by restructuring content and user flows.  
-✅ Information Architecture / User Flow / Content Strategy  
-📈 Results: +174% sessions / –7% bounce rate  <br /><br />
-🔗 [View Case Study](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
-
----
-
-#### 💡 Tipshelf – Internal Knowledge Sharing Tool
-
-UX case study exploring structured contribution and clear interface flows for async teams.  
-✅ UX Architecture / Tagging System / Prototyping  <br /><br />
-🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Tipshelf-UX-Case-Study-215994322fd581be9112cd4174f4ae3d)
-
----
-
 #### 🍓 Grab Fruits – Solo Game Design & Development _(Optional)_
 
 Browser game built from concept to code. Explored intuitive gameplay loops, minimal UI, and clear feedback for players.  
 ✅ JavaScript / Phaser / Game UX  <br /><br />
 🔗 [GitHub Repo](https://github.com/yoko-vicky/Glab-Fruits)
-
----
-
-#### 🪷 Retrospective Lite _(Optional)_
-
-A self-initiated UX tool for remote teams to reflect more inclusively with structured, low-pressure prompts.  
-✅ UX Facilitation / Remote Team Design  <br /><br />
-🔗 [View Case Study](https://abiding-snap-e4c.notion.site/Retrospective-Lite-A-Gentle-Canvas-for-Reflection-in-Remote-Teams-215994322fd581f0ae9af6011f6d9aff)
 
 ---
 
