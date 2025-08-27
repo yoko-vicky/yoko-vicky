@@ -5,6 +5,7 @@ I focus on delivering accessible, maintainable, and intuitive interfaces — tra
 My work often involves defining API contracts from frontend needs, aligning logic with data shape, and reducing ambiguity between designers and backend engineers.
 
 💡 My approach combines:
+
 - Frontend development (React / Next.js / TypeScript)
 - UX-driven architecture and async-friendly component structure
 - API contract definition and integration based on frontend logic
@@ -26,6 +27,7 @@ I see accessibility not just as a checklist, but as a way to sharpen engineering
 ✨ One of my recent articles — [From Universal Design to Personalized Interfaces ↗](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b) — was featured in [Bootcamp (UX Collective)](https://bootcamp.uxdesign.cc), a curated UX publication reaching 3M+ monthly readers.
 
 🧠 Recently, I’ve been working on:
+
 - Designing and implementing frontend architecture in async environments
 - Aligning UI logic with backend structure and defining API contracts
 - Building modular, maintainable UI components from Figma
@@ -36,10 +38,11 @@ I see accessibility not just as a checklist, but as a way to sharpen engineering
 ## 🌟 Main Projects
 
 ### 🗣️ Promotee — Interview Flashcard App (A11y by Design)
+
 ![Promotee demo GIF](./images/promotee-demo.gif)
 
 Practice your own answers out loud — built with accessibility at the core.  
-✅ Next.js / TypeScript / Tailwind CSS / Zustand / A11y by Design  
+✅ Next.js / TypeScript / Tailwind CSS / Zustand / A11y by Design
 
 🚀 [Try the App](https://www.promotee.app/)  
 🛠 [View Case Study](https://abiding-snap-e4c.notion.site/Interview-Flashcard-App-A11Y-by-Design-In-Progress-249994322fd5806eb993deffb22cc09c?pvs=74)  
@@ -48,12 +51,13 @@ Practice your own answers out loud — built with accessibility at the core.
 ---
 
 ### 🎨 Contrastly — Tailwind Colors Contrast Checker
-![Contrastly demo GIF](./images/contrastly-demo.gif)
+
+![Contrastly demo GIF](./images/contrastly-preview.gif)
 
 A lightweight tool for devs to check Tailwind colors against WCAG AA/AAA in real time.  
-Handy for frontend devs, backend engineers touching UI, or anyone aiming for **100/100 Lighthouse accessibility scores**.  
+Handy for frontend devs, backend engineers touching UI, or anyone aiming for **100/100 Lighthouse accessibility scores**.
 
-✅ Next.js / TypeScript / Tailwind CSS  
+✅ Next.js / TypeScript / Tailwind CSS
 
 🔗 [Open App](https://contrastly.yokotools.dev/)  
 ℹ️ [About](https://contrastly.yokotools.dev/about)
@@ -62,10 +66,10 @@ Handy for frontend devs, backend engineers touching UI, or anyone aiming for **1
 
 ## 🔎 Other Selected Projects
 
-- Web3 EdTech Platform — Async frontend dev, API contracts, secure Metamask login. [Case Study ↗](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)  
-- Automated PDF Report Tool — Prisma queries + Puppeteer for reports. [Case Study ↗](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)  
-- UX-Oriented Website Redesign — IA + flow restructure, boosted sessions +174%. [Case Study ↗](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)  
-- Tracking App — Fullstack habit tracker (Rails + React/Redux). [GitHub Repo ↗](https://github.com/yoko-vicky/Tracking-App-with-React-Redux)  
+- Web3 EdTech Platform — Async frontend dev, API contracts, secure Metamask login. [Case Study ↗](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
+- Automated PDF Report Tool — Prisma queries + Puppeteer for reports. [Case Study ↗](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
+- UX-Oriented Website Redesign — IA + flow restructure, boosted sessions +174%. [Case Study ↗](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
+- Tracking App — Fullstack habit tracker (Rails + React/Redux). [GitHub Repo ↗](https://github.com/yoko-vicky/Tracking-App-with-React-Redux)
 - Movie Library — Next.js + Supabase + Prisma + Auth. [GitHub Repo ↗](https://github.com/yoko-vicky/MyFavoriteMovies)
 
 ---
