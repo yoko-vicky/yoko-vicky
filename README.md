@@ -13,28 +13,6 @@ My work often involves defining API contracts from frontend needs, aligning logi
 
 ---
 
-## 🌿 I believe in a structure that supports trust and autonomy.
-
-Whether working independently or as part of a distributed team,  
-I focus on clarifying requirements, sharing ideas early, and delivering code that respects users and teammates alike.
-
-🔍 I’m currently deepening my accessibility practice — learning to design and build with inclusion from the start.  
-I see accessibility not just as a checklist, but as a way to sharpen engineering, UX, and real-world care.
-
-📖 I also write about what I learn:  
-[How Accessibility Became a New Lens in My Work ↗](https://medium.com/@yokoworks.dev/how-accessibility-became-a-new-lens-in-my-work-and-why-im-learning-to-see-more-clearly-5f7e2a6d5cc5)
-
-✨ One of my recent articles — [From Universal Design to Personalized Interfaces ↗](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b) — was featured in [Bootcamp (UX Collective)](https://bootcamp.uxdesign.cc), a curated UX publication reaching 3M+ monthly readers.
-
-🧠 Recently, I’ve been working on:
-
-- Designing and implementing frontend architecture in async environments
-- Aligning UI logic with backend structure and defining API contracts
-- Building modular, maintainable UI components from Figma
-- Translating design insights into testable, clear code with documentation
-
----
-
 ## 🌟 Main Projects
 
 ### 🗣️ Promotee — Interview Flashcard App (A11y by Design)
@@ -71,6 +49,28 @@ Handy for frontend devs, backend engineers touching UI, or anyone aiming for **1
 - UX-Oriented Website Redesign — IA + flow restructure, boosted sessions +174%. [Case Study ↗](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
 - Tracking App — Fullstack habit tracker (Rails + React/Redux). [GitHub Repo ↗](https://github.com/yoko-vicky/Tracking-App-with-React-Redux)
 - Movie Library — Next.js + Supabase + Prisma + Auth. [GitHub Repo ↗](https://github.com/yoko-vicky/MyFavoriteMovies)
+
+---
+
+## 🌿 I believe in a structure that supports trust and autonomy.
+
+Whether working independently or as part of a distributed team,  
+I focus on clarifying requirements, sharing ideas early, and delivering code that respects users and teammates alike.
+
+🔍 I’m currently deepening my accessibility practice — learning to design and build with inclusion from the start.  
+I see accessibility not just as a checklist, but as a way to sharpen engineering, UX, and real-world care.
+
+📖 I also write about what I learn:  
+[How Accessibility Became a New Lens in My Work ↗](https://medium.com/@yokoworks.dev/how-accessibility-became-a-new-lens-in-my-work-and-why-im-learning-to-see-more-clearly-5f7e2a6d5cc5)
+
+✨ One of my recent articles — [From Universal Design to Personalized Interfaces ↗](https://medium.com/@yokoworks.dev/from-universal-design-to-personalized-interfaces-rethinking-accessibility-3f0d9b31150b) — was featured in [Bootcamp (UX Collective)](https://bootcamp.uxdesign.cc), a curated UX publication reaching 3M+ monthly readers.
+
+🧠 Recently, I’ve been working on:
+
+- Designing and implementing frontend architecture in async environments
+- Aligning UI logic with backend structure and defining API contracts
+- Building modular, maintainable UI components from Figma
+- Translating design insights into testable, clear code with documentation
 
 ---
 
