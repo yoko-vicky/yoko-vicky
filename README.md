@@ -55,7 +55,7 @@ Handy for frontend devs, backend engineers touching UI, or anyone aiming for **1
 
 ✅ Next.js / TypeScript / Tailwind CSS  
 
-🔗 [Live Demo](https://contrastly.yokotools.dev/)  
+🔗 [Open App](https://contrastly.yokotools.dev/)  
 ℹ️ [About](https://contrastly.yokotools.dev/about)
 
 ---
