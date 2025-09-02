@@ -79,6 +79,7 @@ I see accessibility not just as a checklist, but as a way to sharpen engineering
 🧭 [Yoko | Portfolio & Services](https://www.yokoworks.dev/)  
 💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)  
 📰 [Read Articles on Medium](https://medium.com/@yokoworks.dev)  
+📝 [Dev.to | Developer-focused posts](https://dev.to/yokoworks)  
 🐣 [New to X (starting from zero, as we all do!)](https://x.com/yokoworks)
 
 ---
