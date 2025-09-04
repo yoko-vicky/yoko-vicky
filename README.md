@@ -47,8 +47,8 @@ Handy for frontend devs, backend engineers touching UI, or anyone aiming for **1
 - Web3 EdTech Platform — Async frontend dev, API contracts, secure Metamask login. [Case Study ↗](https://abiding-snap-e4c.notion.site/Web3-EdTech-Platform-Freelance-UX-Focused-Frontend-215994322fd5805abb2efcdd9afd042d?pvs=143)
 - Automated PDF Report Tool — Prisma queries + Puppeteer for reports. [Case Study ↗](https://abiding-snap-e4c.notion.site/Automated-Monthly-PDF-Report-Tool-232994322fd580f997a5ce5d05c44795)
 - UX-Oriented Website Redesign — IA + flow restructure, boosted sessions +174%. [Case Study ↗](https://abiding-snap-e4c.notion.site/UX-Oriented-Website-Redesign-for-a-Beauty-Appliance-Brand-215994322fd581c9baa0c654756bc1c2?pvs=143)
-- Tracking App — Fullstack habit tracker (Rails + React/Redux). [GitHub Repo ↗](https://github.com/yoko-vicky/Tracking-App-with-React-Redux)
-- Movie Library — Next.js + Supabase + Prisma + Auth. [GitHub Repo ↗](https://github.com/yoko-vicky/MyFavoriteMovies)
+- Tracking App — Fullstack habit tracker (Rails + React/Redux). [GitHub Repo ↗](https://github.com/yokoworks/Tracking-App-with-React-Redux)
+- Movie Library — Next.js + Supabase + Prisma + Auth. [GitHub Repo ↗](https://github.com/yokoworks/MyFavoriteMovies)
 
 ---
 
@@ -77,7 +77,7 @@ I see accessibility not just as a checklist, but as a way to sharpen engineering
 ## 📘 Portfolio & Contact
 
 🧭 [Yoko | Portfolio & Services](https://www.yokoworks.dev/)  
-💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yoko-vicky/)  
+💬 [Let’s connect on LinkedIn](https://www.linkedin.com/in/yokoworks/)  
 📰 [Read Articles on Medium](https://medium.com/@yokoworks.dev)  
 📝 [Dev.to | Developer-focused posts](https://dev.to/yokoworks)  
 🐣 [New to X (starting from zero, as we all do!)](https://x.com/yokoworks)
